@@ -1,0 +1,1 @@
+Upload these files directly to the root of the GitHub Pages repository. The site is configured for https://amitksinghco-web.github.io/ and uses only confirmed firm details: CA Amit Kumar Singh; Membership No. 324152; FRN 342353E; +91 99034 27474; amitksinghco@gmail.com; Biswas Para, Defence Park, Shibrampur Mauza, Maheshtala, Kolkata – 700141; Monday–Saturday 10 AM–6 PM.
